@@ -1,0 +1,5 @@
+VBoxClient --clipboard
+VBoxClient --draganddrop
+VBoxClient --seamless
+VBoxClient --checkhostversion
+VBoxClient -- vmsvga
